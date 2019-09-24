@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj": {}
+    "C:\\Users\\ITZEL SOSA CRUZ\\Documents\\Programacion\\Jessica\\Tarea3\\Tarea3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj": {
+    "C:\\Users\\ITZEL SOSA CRUZ\\Documents\\Programacion\\Jessica\\Tarea3\\Tarea3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj",
+        "projectUniqueName": "C:\\Users\\ITZEL SOSA CRUZ\\Documents\\Programacion\\Jessica\\Tarea3\\Tarea3.csproj",
         "projectName": "Tarea3",
-        "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj",
-        "packagesPath": "C:\\Users\\ASSA ABLOY CANCUN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\obj\\",
+        "projectPath": "C:\\Users\\ITZEL SOSA CRUZ\\Documents\\Programacion\\Jessica\\Tarea3\\Tarea3.csproj",
+        "packagesPath": "C:\\Users\\ITZEL SOSA CRUZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITZEL SOSA CRUZ\\Documents\\Programacion\\Jessica\\Tarea3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASSA ABLOY CANCUN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ITZEL SOSA CRUZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
