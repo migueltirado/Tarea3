@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\Tarea3\\Tarea3.csproj": {}
+    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\Tarea3\\Tarea3.csproj": {
+    "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\Tarea3\\Tarea3.csproj",
+        "projectUniqueName": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj",
         "projectName": "Tarea3",
-        "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\Tarea3\\Tarea3.csproj",
+        "projectPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\Tarea3.csproj",
         "packagesPath": "C:\\Users\\ASSA ABLOY CANCUN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\desktop\\itc\\7\\programacion\\git\\Tarea3\\obj\\",
+        "outputPath": "C:\\Users\\ASSA ABLOY CANCUN\\Desktop\\ITC\\7\\programacion\\Git\\Tarea3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
