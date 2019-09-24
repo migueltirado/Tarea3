@@ -37,13 +37,13 @@ namespace Tarea3.Controllers
 
     public String    resta(int n1=5,  int n2=4)
         {  int n3=n1-n2;
-            string mensaje="El resultado de restar "+ n1  +"+" +n2+"Es igual a  "+n3;
+            string mensaje="El resultado de restar "+ n1  +"-" +n2+"Es igual a  "+n3;
             return mensaje;
         }
        
         public String    division(int n1=5,  int n2=4)
         {  int n3=n1/n2;
-            string mensaje="El resultado de dividir"+ n1  +"+" +n2+"Es igual a  "+n3;
+            string mensaje="El resultado de dividir"+ n1  +"/" +n2+"Es igual a  "+n3;
             return mensaje;
         }
     
